@@ -8,6 +8,8 @@ Runnable notebooks for every video: the explanations and code from the lesson, r
 
 ## Python for AI
 
+- [Python for AI: What You Actually Need (and What to Skip)](python-for-ai/python-for-ai-in-20-minutes-everything-you-actually-need.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/python-for-ai/python-for-ai-in-20-minutes-everything-you-actually-need.ipynb)
+- [The Complete AI and ML Roadmap for 2027 (From Zero)](python-for-ai/the-complete-ai-ml-roadmap-for-2027-from-zero.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/python-for-ai/the-complete-ai-ml-roadmap-for-2027-from-zero.ipynb)
 - [The Python Default Argument Trap](python-for-ai/the-mutable-default-argument-trap-in-50-seconds-short.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/python-for-ai/the-mutable-default-argument-trap-in-50-seconds-short.ipynb)
 - [Python Variables and Mutability: How Memory Really Works](python-for-ai/variables-data-types-and-mutability-how-python-really-stores.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/python-for-ai/variables-data-types-and-mutability-how-python-really-stores.ipynb)
 
