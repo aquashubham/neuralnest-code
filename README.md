@@ -6,6 +6,10 @@ Runnable notebooks for every video: the explanations and code from the lesson, r
 
 - [Python Generators & yield: Huge Data, Tiny Memory](advanced-python/generators-and-yield-process-huge-data-with-tiny-memory.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/advanced-python/generators-and-yield-process-huge-data-with-tiny-memory.ipynb)
 
+## Other
+
+- [Linear Regression Explained Visually (With Python Code)](other/demo-linear-regression.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/other/demo-linear-regression.ipynb)
+
 ## Python for AI
 
 - [Every Python Dictionary Method Explained (With Examples)](python-for-ai/every-python-dictionary-method-explained-with-examples.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/python-for-ai/every-python-dictionary-method-explained-with-examples.ipynb)
@@ -22,3 +26,4 @@ Runnable notebooks for every video: the explanations and code from the lesson, r
 ## SQL for Data & AI
 
 - [SQL JOINs Explained Visually: INNER vs LEFT JOIN](sql-for-data-ai/demo-sql-joins.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/sql-for-data-ai/demo-sql-joins.ipynb)
+- [SQL JOINs Explained Visually](sql-for-data-ai/sql-joins-explained-visually.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/sql-for-data-ai/sql-joins-explained-visually.ipynb)
