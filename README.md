@@ -6,6 +6,11 @@ Runnable notebooks for every video: the explanations and code from the lesson, r
 
 - [Python Generators & yield: Huge Data, Tiny Memory](advanced-python/generators-and-yield-process-huge-data-with-tiny-memory.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/advanced-python/generators-and-yield-process-huge-data-with-tiny-memory.ipynb)
 
+## Machine Learning From Scratch
+
+- [Why Hardcoded IF Statements Fail in AI](machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals-short.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals-short.ipynb)
+- [What Is Machine Learning, Really? (No Math, Just Visuals)](machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals.ipynb)
+
 ## Other
 
 - [Linear Regression Explained Visually (With Python Code)](other/demo-linear-regression.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/other/demo-linear-regression.ipynb)
