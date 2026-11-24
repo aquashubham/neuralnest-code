@@ -9,6 +9,8 @@ Runnable notebooks for every video: the explanations and code from the lesson, r
 ## Machine Learning From Scratch
 
 - [Supervised vs Unsupervised vs Reinforcement Learning Explained](machine-learning-from-scratch/supervised-vs-unsupervised-vs-reinforcement-learning.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/supervised-vs-unsupervised-vs-reinforcement-learning.ipynb)
+- [The Bias-Variance Trade-Off Explained Visually](machine-learning-from-scratch/the-bias-variance-trade-off-explained-visually.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/the-bias-variance-trade-off-explained-visually.ipynb)
+- [Confusion Matrix Explained Simply (Machine Learning Metrics)](machine-learning-from-scratch/the-confusion-matrix-explained-simply.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/the-confusion-matrix-explained-simply.ipynb)
 - [Why Hardcoded IF Statements Fail in AI](machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals-short.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals-short.ipynb)
 - [What Is Machine Learning, Really? (No Math, Just Visuals)](machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals.ipynb) · [Colab](https://colab.research.google.com/github/aquashubham/neuralnest-code/blob/main/machine-learning-from-scratch/what-is-machine-learning-really-no-math-just-visuals.ipynb)
 
